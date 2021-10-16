@@ -40,3 +40,4 @@ services:
         - DB_USER: $DB_USER
         - DB_PASS: $DB_PASS
         - SANDBOX_ID: $torque.environment.id
+  - kcs
