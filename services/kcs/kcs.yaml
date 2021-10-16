@@ -17,7 +17,7 @@ module:
   # Both public and private repos are supported
 
 
-terraform_version: 1.0.3
+terraform_version: 1.0.8
 variables:
   var_file: terraform.tfvars
   values:
